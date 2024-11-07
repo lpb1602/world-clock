@@ -1,5 +1,5 @@
 body {
-  background-color: #f9f7fe;
+  background-color: #f5f1fe;
   font-family: sans-serif;
 }
 
@@ -17,7 +17,7 @@ select {
   width: 100%;
   font-size: 18px;
   padding: 10px;
-  border-radius: 4px;
+  border-radius: 20px;
 }
 
 .container {
@@ -25,7 +25,7 @@ select {
   margin: 60px auto;
   background-color: white;
   padding: 30px;
-  box-shadow: 10px 10px 10px rgba(100, 111, 0, 0.2);
+  box-shadow: 10px 10px 1px #ef609a;
   border-radius: 10px;
 }
 
